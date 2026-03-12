@@ -1,0 +1,12 @@
+# Virtual environment
+C.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database / CSV / images
+*.db
+*.csv
+data_faces_from_camera/
+data_dlib/
